@@ -8,7 +8,7 @@ profile-title: FURRY VPN FREE
 #sub-info: Только проверыные серверы
 #update-url: https://raw.githubusercontent.com/LIKE-FURRY/FURRYVPNFREE/refs/heads/main/FURRY.TXT
 #remark: НЕ СЛИВАТЬ !! 
-#color: #00FF88
+#color: #BF00FF
 #icon: https://vk.ru/photo852763945_457239125
 #expire: 2028-11-12
 
