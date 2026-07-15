@@ -12,4 +12,3 @@ profile-title: FURRY VPN FREE
 #icon: https://vk.ru/photo852763945_457239125
 #expire: 2028-11-12
 
-vless://c99fdb9a-0cec-497d-9d29-d45ed770807b@ru1.fast-cone.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ru1.fast-cone.com&fp=edge&pbk=wR1YUNd4Vbpn7rDgjblAP6SLhqaYiL1XElrn0J0VDjE&sid=77&spx=%2F&allowinsecure=0&type=tcp&headerType=none#🇷🇺 Россия 4567
