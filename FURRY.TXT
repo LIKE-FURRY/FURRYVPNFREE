@@ -1,9 +1,9 @@
+#hide-settings: 1
 #profile-title: FURRY-VPN-PRO
 #profile-update-interval: 1
 #announce: Стабильный, пушистый VPN который обходит все блокировки бесплатно.
 #support-url: https://t.me/FURRY_VPN_FREE
 #profile-web-page-url: https://t.me/FURRY_VPN_FREE
-#hide-settings: 1
 #sub-source: https://github.com/LIKE-FURRY/
 #sub-info: Только проверыные серверы
 #update-url: https://raw.githubusercontent.com/LIKE-FURRY/FURRYVPNFREE/refs/heads/main/FURRY.TXT
@@ -20,7 +20,6 @@ hysteria2://1645f0b3-c606-4e73-aa1d-248bd68405df@94.131.121.191:443?security=tls
 hysteria2://e86fd04e-a2f5-4779-a529-748b1813cbc2@94.131.121.191:443?security=tls&fm=%7B%7D&sni=ru1.kinotorg.net#LTE_Россия🇷🇺 5
 vless://a2738d8d-ed26-4b13-a4a2-b89c7238cd10@84.201.146.224:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=FbSS7oOlAq-kOAqWgO9B4EsMvOUmYyMpSjDwzXbKbhU&sid=c4a7b439&type=tcp&headerType=none#LTE_Финляндия🇫🇮 1
 vless://a2738d8d-ed26-4b13-a4a2-b89c7238cd10@46.254.16.186:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=qq&pbk=zPFJM8FCoqGZwSpDi7xDGQBrcJoqeVLAZo4a4Yi2g1k&sid=5a7517a8&type=tcp&headerType=none#LTE_Чехия🇨🇿 1
-
 
 #Wi-Fi_LIMIT=500G
 
